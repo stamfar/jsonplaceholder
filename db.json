@@ -9,8 +9,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "comments": [
-    { "id": 1, "status": "Purple", "name": "iamPurple" },
-    { "id": 2, "status": "Green", "name": "iamGreen"  },
+    { "id": 1, "status": "Purple", "name": "iamPurple", "name2": "PurpleButNotRightOne" },
+    { "id": 2, "status": "Green", "name": "iamGreen", "name": "GreenButNotRightOne"  },
     { "id": 3, "body": "some comment", "postId": 1 }
   ],
   "profile": {

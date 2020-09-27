@@ -9,9 +9,10 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "comments": [
-    { "id": 1, "status": "Purple", "name": "iamPurple" },
+    { "id": 1, "status": "Purple", "name": "iamPurple", "img": "https://1.bp.blogspot.com/-PAGEavpxDfM/X13yEZUwldI/AAAAAAAABwE/jsipaHSXtsUO5QYv915WQVgv9vNMjPxTQCLcBGAsYHQ/s640/the%2Bsocial%2Bdilemma.jpg" },
     { "id": 2, "status": "Green", "name": "iamGreen", "img": "https://pmcvariety.files.wordpress.com/2020/01/the-social-dilemma.jpg" },
-    { "id": 3, "body": "some comment", "postId": 1 }
+    { "id": 3, "status": "Yellow", "name": "iamYellow", "img": "https://pmcvariety.files.wordpress.com/2020/01/the-social-dilemma.jpg" }
+    { "id": 4, "body": "some comment", "name": "iamNothing", "img": "https://pmcvariety.files.wordpress.com/2020/01/the-social-dilemma.jpg", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"

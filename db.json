@@ -10,7 +10,7 @@
   ],
   "comments": [
     { "id": 1, "status": "Purple", "name": "iamPurple" },
-    { "id": 2, "status": "Green", "name": "iamGreen" },
+    { "id": 2, "status": "Green", "name": "iamGreen", "img": "https://pmcvariety.files.wordpress.com/2020/01/the-social-dilemma.jpg" },
     { "id": 3, "body": "some comment", "postId": 1 }
   ],
   "profile": {

@@ -2,7 +2,10 @@
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 3, "title": "Post 3" },
+    {"country":"Afghanistan","county":null,"updatedAt":"2021-05-18 04:20:33","stats":{"confirmed":63598,"deaths":2745,"recovered":55010},"coordinates":{"latitude":"33.93911","longitude":"67.709953"},"province":null},
+    {"country":"Albania","county":null,"updatedAt":"2021-05-18 04:20:33","stats":{"confirmed":132032,"deaths":2435,"recovered":125419},"coordinates":{"latitude":"41.1533","longitude":"20.1683"},"province":null},
+    {"country":"Algeria","county":null,"updatedAt":"2021-05-18 04:20:33","stats":{"confirmed":125485,"deaths":3381,"recovered":87476},"coordinates":{"latitude":"28.0339","longitude":"1.6596"},"province":null},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

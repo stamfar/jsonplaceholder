@@ -1,43 +1,45 @@
 {
-  "posts": [
-    {
-      "country": "Albania",
-      "updatedAt": "2021-05-18 04:20:33",
-      "stats": {
-        "confirmed": 132032,
-        "deaths": 2435,
-        "recovered": 125419
+  "posts": {
+    "result": [
+      {
+        "country": "Albania",
+        "updatedAt": "2021-05-18 04:20:33",
+        "stats": {
+          "confirmed": 132032,
+          "deaths": 2435,
+          "recovered": 125419
+        },
+        "coordinates": {
+          "latitude": "41.1533",
+          "longitude": "20.1683"
+        }
       },
-      "coordinates": {
-        "latitude": "41.1533",
-        "longitude": "20.1683"
-      }
-    },
-    {
-      "country": "Albania",
-      "updatedAt": "2021-05-18 04:20:33",
-      "stats": {
-        "confirmed": 132032,
-        "deaths": 2435,
-        "recovered": 125419
+      {
+        "country": "Albania",
+        "updatedAt": "2021-05-18 04:20:33",
+        "stats": {
+          "confirmed": 132032,
+          "deaths": 2435,
+          "recovered": 125419
+        },
+        "coordinates": {
+          "latitude": "41.1533",
+          "longitude": "20.1683"
+        }
       },
-      "coordinates": {
-        "latitude": "41.1533",
-        "longitude": "20.1683"
+      {
+        "country": "Albania",
+        "updatedAt": "2021-05-18 04:20:33",
+        "stats": {
+          "confirmed": 132032,
+          "deaths": 2435,
+          "recovered": 125419
+        },
+        "coordinates": {
+          "latitude": "41.1533",
+          "longitude": "20.1683"
+        }
       }
-    },
-    {
-      "country": "Albania",
-      "updatedAt": "2021-05-18 04:20:33",
-      "stats": {
-        "confirmed": 132032,
-        "deaths": 2435,
-        "recovered": 125419
-      },
-      "coordinates": {
-        "latitude": "41.1533",
-        "longitude": "20.1683"
-      }
-    }
-  ]
+    ]
+  }
 }

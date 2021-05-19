@@ -10,8 +10,8 @@
       "recovered": 125419
     },
     "coordinates": {
-      "latitude": "41.1533",
-      "longitude": "20.1683"
+      "lat": "41.1533",
+      "lng": "20.1683"
     }
       },
       {
@@ -23,11 +23,11 @@
       "recovered": 125419
     },
     "coordinates": {
-      "latitude": "41.1533",
-      "longitude": "20.1683"
+      "lat": "41.1533",
+      "lng": "20.1683"
     }
       },
-      {"country":"Norway","county":null,"updatedAt":"2021-05-18 04:20:33","stats":{"confirmed":119500,"deaths":774,"recovered":17998},"coordinates":{"latitude":"60.472","longitude":"8.4689"},"province":null},
+      {"country":"Norway","county":null,"updatedAt":"2021-05-18 04:20:33","stats":{"confirmed":119500,"deaths":774,"recovered":17998},"coordinates":{"lat":"60.472","lng":"8.4689"},"province":null},
       {
 "country": "Albania",
     "updatedAt": "2021-05-18 04:20:33",
@@ -37,8 +37,8 @@
       "recovered": 125419
     },
     "coordinates": {
-      "latitude": "41.1533",
-      "longitude": "20.1683"
+      "lat": "41.1533",
+      "lng": "20.1683"
     }
       }
     ]
